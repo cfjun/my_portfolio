@@ -1,0 +1,34 @@
+[
+  {
+    "name": "React",
+    "level": "熟练"
+  },
+  {
+    "name": "TypeScript",
+    "level": "熟练"
+  },
+  {
+    "name": "JavaScript",
+    "level": "精通"
+  },
+  {
+    "name": "Tailwind CSS",
+    "level": "熟练"
+  },
+  {
+    "name": "Vite",
+    "level": "熟练"
+  },
+  {
+    "name": "Framer Motion",
+    "level": "熟悉"
+  },
+  {
+    "name": "React Router",
+    "level": "熟练"
+  },
+  {
+    "name": "Git",
+    "level": "熟练"
+  }
+]

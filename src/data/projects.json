@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "项目管理系统",
+    "description": "一个功能完整的项目管理系统，支持任务分配、进度跟踪、团队协作等功能。",
+    "techStack": ["React", "TypeScript", "Tailwind CSS", "Node.js"],
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=project%20management%20system%20dashboard%20dark%20theme&image_size=landscape_16_9",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "name": "电商网站",
+    "description": "一个现代化的电商网站，支持商品浏览、购物车、支付等功能。",
+    "techStack": ["React", "TypeScript", "Tailwind CSS", "Stripe"],
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=ecommerce%20website%20dark%20theme&image_size=landscape_16_9",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "name": "个人博客",
+    "description": "一个简洁美观的个人博客系统，支持文章发布、评论、分类等功能。",
+    "techStack": ["React", "TypeScript", "Tailwind CSS", "Markdown"],
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=personal%20blog%20website%20dark%20theme&image_size=landscape_16_9",
+    "link": "#"
+  }
+]
