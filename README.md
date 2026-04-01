@@ -19,7 +19,7 @@
 src/
   components/         # React 组件
     Header.tsx        # 头部导航栏
-    Hero.tsx          # 首页英雄区
+    Hero.tsx          # 首页个人介绍
     About.tsx         # 关于我
     Projects.tsx      # 项目展示
     Contact.tsx       # 联系方式
